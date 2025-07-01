@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Type Translator</string>
+    <key>CFBundleDisplayName</key>
+    <string>Type Translator</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.typetranslator.app</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>TypeTranslator</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSSupportsAutomaticTermination</key>
+    <false/>
+    <key>NSSupportsSuddenTermination</key>
+    <false/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2024 TypeTranslator. All rights reserved.</string>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>TypeTranslator需要辅助功能权限来读取和替换其他应用中的文本，实现全局翻译功能。</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>TypeTranslator需要Apple Events权限来与其他应用交互，实现文本翻译功能。</string>
+</dict>
+</plist> 
