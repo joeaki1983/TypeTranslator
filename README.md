@@ -7,7 +7,8 @@
 ![Swift](https://img.shields.io/badge/swift-5.0-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-一个功能强大的 macOS AI 翻译工具，支持 8 种不同的 AI 接口，提供实时、准确的文本翻译服务。
+macOS 输入框翻译软件，可以在任何输入框内，一键将中文翻译成英文
+
 
 [下载最新版本](../../releases) • [使用指南](#使用方法) • [API 配置](#支持的-ai-接口)
 
